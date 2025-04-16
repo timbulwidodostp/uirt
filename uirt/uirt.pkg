@@ -1,4 +1,18 @@
-D 'DEA': Data envelopment analysis
+D 'uirt': Fit unidimensional Item Response Theory models Use uirt With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F uirt.ado
+F uirt.sthlp
+F uirt_chi2w.ado
+F uirt_chi2w.sthlp
+F uirt_dif.ado
+F uirt_dif.sthlp
+F uirt_esf.ado
+F uirt_esf.sthlp
+F uirt_icc.ado
+F uirt_icc.sthlp
+F uirt_inf.ado
+F uirt_inf.sthlp
+F uirt_sx2.ado
+F uirt_sx2.sthlp
+F uirt_theta.ado
+F uirt_theta.sthlp
