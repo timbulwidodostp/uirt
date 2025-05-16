@@ -1,6 +1,8 @@
 # uirt
 Fit unidimensional Item Response Theory models Use uirt With STATA 19
 
+https://www.youtube.com/watch?v=eqY18Ym1Z64
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
